@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'am mans</h1>
+<h1 align="left">Hi 👋! I'am Mans</h1>
 
 ###
 
@@ -48,16 +48,16 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/_mega1411/?next=%2F" target="_blank">
+  <a href="https://www.instagram.com/a7medmans4r/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/youssef-abdelmaged-8b6a791bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-mansour-3b7922254/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:youssefabdelmaged50@gmail.com" target="_blank">
+  <a href="mailto:ahmedmansore52@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/+201203116454" target="_blank">
+  <a href="https://wa.me/+201069860460" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/youssefabdelmaged /count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AhmedMansour /count.svg?"  />
 </div>
 
 ###
