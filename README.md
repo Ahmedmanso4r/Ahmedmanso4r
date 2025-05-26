@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mansour</h1>
-<h2 align="center">A passionate Full-Stack Developer Using Python</h2>
+<h2 align="center">A Passionate Full-Stack Developer Using Python</h2>
 
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=ahmedmanso4r&color=4010B0" height="23"/>
