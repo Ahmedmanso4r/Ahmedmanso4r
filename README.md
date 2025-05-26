@@ -23,7 +23,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmanso4r&show_icons=true&locale=en&layout=compact&langs_count=5&theme=codeSTACKr"/></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmanso4r&" alt="ahmedmanso4r" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmanso4r&theme=codeSTACKr"/></p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
