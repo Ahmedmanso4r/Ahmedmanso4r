@@ -21,8 +21,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedmanso4r&theme=onestar&row=1&column=7"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmanso4r&show_icons=true&locale=en&layout=compact&langs_count=5&theme=codeSTACKr"/></p>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmanso4r&theme=codeSTACKr"/></p>
 
 <p align="center">
