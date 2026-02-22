@@ -18,7 +18,7 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedmanso4r&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedmanso4r&theme=onestar&row=1&column=10"/>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmanso4r&show_icons=true&locale=en&layout=compact&langs_count=5&theme=codeSTACKr"/></p>
