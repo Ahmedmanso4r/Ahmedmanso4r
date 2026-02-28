@@ -27,10 +27,10 @@
   <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50></a>
   </p>
 
-  ### 🛠️ Top Technical Skills & Tools
+### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,docker,postgresql,mysql,html,css,js,postman,django,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,docker,postgresql,mysql,html,css,js,linux,postman,django,git&perline=6" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=Ahmedmanso4r&theme=highcontrast" height="105"/>
   </p>
   
