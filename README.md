@@ -13,9 +13,9 @@
   </p>
   
   <p>
-    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/></a>
-  </p>
+  <a href="https://www.google.com/search?q=Ahmed Mansour">
+    <img src="https://komarev.com/ghpvc/?username=Ahmedmanso4r&style=flat&color=3010A0" style="height:25px; object-fit:contain;" /></a>
+ </p>
 
   ### 📤 My Social Accounts
   <p align="left">
@@ -27,7 +27,7 @@
   <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50></a>
   </p>
 
-### 🛠️ Top Technical Skills & Tools
+ ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,docker,postgresql,mysql,html,css,js,postman,django,git&perline=6" style="height:105px;"/> &nbsp;
