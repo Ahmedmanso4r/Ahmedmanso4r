@@ -37,17 +37,17 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,docker,postgresql,mysql,html,css,js,postman,odoo,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=Ahmedmanso4r&theme=highcontrast" height="105"/>
   </p>
   
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Ahmedmanso4r&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   
   <br>
 
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="176"/> &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="176"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmedmanso4r&theme=github_dark" height="176"/> &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmedmanso4r&theme=github_dark" height="176"/>
   </p>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
