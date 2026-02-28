@@ -23,8 +23,8 @@
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/a7medmans4r/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://www.whatsapp.com/wa.me/201069860460">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a>
+    <a href="https://wa.me/201069860460" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
@@ -43,5 +43,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmedmanso4r&theme=github_dark" height="176"/>
   </p>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
-![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmedmanso4r&theme=github_dark)
+![Snake Animation](https://raw.githubusercontent.com/Ahmedmanso4r/Ahmedmanso4r/output/github-contribution-grid-snake-dark.svg)
