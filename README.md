@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/a7medmans4r/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
     <a href="https://wa.me/201069860460">
-  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50/></a>
+  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
