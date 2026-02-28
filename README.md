@@ -23,14 +23,14 @@
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/a7medmans4r/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://wa.me/201069860460" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="https://wa.me/201069860460">
+  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50></a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,docker,postgresql,mysql,html,css,js,postman,odoo,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,docker,postgresql,mysql,html,css,js,postman,django,node.js,git&perline=6" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=Ahmedmanso4r&theme=highcontrast" height="105"/>
   </p>
   
