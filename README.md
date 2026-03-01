@@ -14,7 +14,7 @@
   
   <p>
   <a href="https://www.google.com/search?q=Ahmed Mansour">
-    <img src="https://komarev.com/ghpvc/?username=Ahmedmanso4r&style=flat&color=3010A0" style="height:25px; object-fit:contain;" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Ahmedmanso4r&style=flat&color=3010A0&v=1" style="height:25px; object-fit:contain;" /></a>
  </p>
 
   ### 📤 My Social Accounts
