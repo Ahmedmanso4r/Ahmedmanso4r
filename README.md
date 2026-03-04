@@ -30,7 +30,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,linux,postgresql,mysql,html,css,js,postman,django,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,angular,linux,shell,postgresql,mysql,html,css,js,postman,django,git&perline=6" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=Ahmedmanso4r&theme=highcontrast" height="105"/>
   </p>
   
